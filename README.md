@@ -25,7 +25,7 @@ Cara Ecommerce is a sleek, user-friendly, and responsive online shopping platfor
 
 ## Credits
 
-Cara Ecommerce Frontend is built with love by [Tejas Nasre](https://github.com/TejasNasre).
+Cara Ecommerce Frontend is built with love by [Krushna Chavan](https://github.com/krushnachavan11).
 
 ## License
 
